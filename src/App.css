@@ -3,9 +3,12 @@
 body {
   margin: 0;
   padding: 10px;
-  box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
   color: white;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 h3,p {
